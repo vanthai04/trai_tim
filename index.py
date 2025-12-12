@@ -1,1 +1,1 @@
-test
+del('Hello World!')
